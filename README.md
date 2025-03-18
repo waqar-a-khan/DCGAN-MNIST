@@ -24,10 +24,7 @@ This repository contains a **Deep Convolutional Generative Adversarial Network (
 ```
 📦 DCGAN-MNIST  
  ├── 📄 dcgan_mnist.ipynb   # Jupyter Notebook for training in Google Colab  
- ├── 📂 data/               # MNIST dataset (downloaded automatically)  
- ├── 📂 generated/          # Generated images saved during training  
  ├── 📄 README.md           # Project documentation  
- ├── 📄 requirements.txt    # Required libraries  
 ```
 
 ## **🔧 Setup & Usage (Run on Google Colab)**  

@@ -23,8 +23,10 @@ This repository contains a **Deep Convolutional Generative Adversarial Network (
 ## **📂 Repository Structure**  
 ```
 📦 DCGAN-MNIST  
- ├── 📄 dcgan_mnist.ipynb   # Jupyter Notebook for training in Google Colab  
- ├── 📄 README.md           # Project documentation  
+ ├── 📄 dcgan_mnist.ipynb   # Jupyter Notebook for training in Google Colab 
+ ├── 📄 README.md           # Project documentation
+ ├── 📄 image.png          # output after 50 epochs  
+ 
 ```
 
 ## **🔧 Setup & Usage (Run on Google Colab)**  
@@ -39,7 +41,7 @@ This repository contains a **Deep Convolutional Generative Adversarial Network (
 
 ## **📊 Sample Results**  
 Generated MNIST Digits after 50 epochs:  
-![Generated Digits](https://user-images.githubusercontent.com/example/generated_digits.png)  
+![Generated Digits](https://github.com/waqar-a-khan/DCGAN-MNIST/blob/main/image.png)  
 
 ---
 ### **🔗 References**  
